@@ -1,0 +1,5 @@
+I201 NewYork London 08:00 2024-10-18 100
+I202 LosAngeles Paris 11:30 2024-10-19 90
+I203 Chicago Tokyo 13:00 2024-10-20 85
+I204 Boston Dubai 17:45 2024-10-21 70
+I205 SanFrancisco Sydney 19:00 2024-10-22 65

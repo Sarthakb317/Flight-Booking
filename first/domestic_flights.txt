@@ -1,0 +1,6 @@
+D101 Delhi Mumbai 10:00 2024-10-18 50
+D102 Hyderabad Bengaluru 12:00 2024-10-19 45
+D103 Chennai Kolkata 09:30 2024-10-20 40
+D104 Mumbai Goa 15:45 2024-10-21 30
+D105 Delhi Jaipur 14:00 2024-10-22 35
+
